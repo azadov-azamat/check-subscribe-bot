@@ -1,0 +1,12 @@
+/node_modules/
+**/node_modules/
+
+# misc
+/.env*
+/coverage/
+/npm-debug.log*
+/testem.log
+/yarn-error.log
+
+sitemap.xml
+sitemap.xml.gz
